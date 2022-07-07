@@ -23,7 +23,7 @@ subtitle_fr              : "Mesurer les inégalités de genre dans les médias f
 name                     : ""
 description              : ""
 url: "https://faghloua.github.io"
-baseurl                  : "/genderednewstests"
+baseurl: "/genderednewstests"
 destination: ./docs
 languages                : ["fr", "en"]
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
