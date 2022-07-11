@@ -8,7 +8,7 @@ comments: false
 
 
 
-{%tf home/ip_check.md %}
+{% tf home/ip_check.md %}
 
 
 {% tf home/lang.md %}
