@@ -24,9 +24,6 @@ comments: false
   
   <br>
 
-  <div>
-    {% t contact.comment %} <textarea name="comment" rows="5" cols="40" required="required"  placeholder="{% t contact.enter_comment %}"></textarea>
-  </div>
   
   <br>
 
